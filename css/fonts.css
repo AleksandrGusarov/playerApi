@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'CircularSp';
+	src: url('../fonts/CircularSp-Light.woff2') format('woff2');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'CircularSp';
+	src: url('../fonts/CircularSp-Black.woff2') format('woff2');
+	font-weight: 700;
+}
